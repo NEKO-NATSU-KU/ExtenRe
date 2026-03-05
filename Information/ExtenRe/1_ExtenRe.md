@@ -1,6 +1,6 @@
 ## 🧩 What is ExtenRe?
 
-**ExtenRe** (Reconstructed Extension) is an open source project that originates from [ReVanced Extended by Inotia00](https://github.com/inotia00/RevancedExtended).
+**ExtenRe** (Reconstructed Extension) is an open source project that originates from [ReVanced Extended by Inotia00](https://github.com/inotia00/Revanced_Extended).
 
 The original project was forked and underwent multiple deep modifications to update, improve, and keep it alive. Among the most important changes are:
 
